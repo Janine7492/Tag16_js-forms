@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 10px;
+}
+
+main h1 {
+    width: 60%;
+    padding: 2rem;
+    text-align: center;
+    font-size: 5rem;
+    text-decoration: underline;
+    margin: 2rem auto;
+    margin-bottom: 5rem;
+}
+
+main p {
+    font-size: 1.6rem;
+    text-align: center;
+    width: 30%;
+    margin: 2rem auto;
+}
+
+main div {
+    text-align: center;
+}
+
+main div button {
+    font-size: 1.6rem;
+    padding: 1rem;
+    margin-top: 5rem;
+    margin-right: 2rem;
+}
+
+.new {
+    font-size: 6rem;
+    color: blueviolet;
+    border: 3px double blueviolet;
+}
